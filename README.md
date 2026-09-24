@@ -1,15 +1,13 @@
 # MODICA CHERYL
 
-Bienvenidos al espacio de MODICA CHERYL en GitHub. Aquí compartimos nuestros proyectos, documentación y avances.
+Bienvenidos al perfil de MODICA CHERYL en GitHub.
 
-## Qué hacemos
-
-[Describe aquí los servicios o productos que realmente ofrece MODICA CHERYL.]
+Este espacio reúne nuestros proyectos, documentación y avances. Cada repositorio incluirá información sobre su propósito y estado para que puedas conocer nuestro trabajo.
 
 ## Proyectos
 
-Publicaremos en este espacio los repositorios relacionados con nuestro trabajo. Cada proyecto incluirá una descripción de su propósito y estado.
+Estamos preparando nuestros primeros proyectos públicos. Se mostrarán aquí a medida que estén disponibles.
 
 ## Contacto
 
-Para consultas profesionales, utiliza los datos de contacto publicados en el perfil de esta organización.
+Puedes comunicarte con nosotros mediante los datos de contacto publicados en el perfil de esta organización.
