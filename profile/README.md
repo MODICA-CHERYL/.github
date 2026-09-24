@@ -2,8 +2,6 @@
 
 Bienvenidos al espacio de MODICA CHERYL en GitHub. Aquí compartimos nuestros proyectos, documentación y avances.
 
-## Qué hacemos
-
 [Describe aquí los servicios o productos que realmente ofrece MODICA CHERYL.]
 
 ## Proyectos
